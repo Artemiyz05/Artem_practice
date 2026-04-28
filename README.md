@@ -25,9 +25,10 @@
 - UnitTestProject1/ — проект с юнит-тестами.
 - Practice_Нечеухин/ — основной проект приложения (формы, логика, капча).
 - Documentation/ — техническое задание и пояснительные материалы.
-На рисунке 1 представлена диаграмма. 
+<p align="center">
+ На рисунке 1 представлена диаграмма. 
+</p>
  <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8" />
-Рисунок 1 – Диаграмма прецедентов
 На рисунке 2 представлена ER-модель. 
 <img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" />
 Рисунок 2 – ER-модель
