@@ -31,6 +31,7 @@
    <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8">
   <img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5">
 </details>
+
 # Основные формы
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Авторизация и капча">
