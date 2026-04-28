@@ -25,7 +25,7 @@
 - UnitTestProject1/ — проект с юнит-тестами.
 - Practice_Нечеухин/ — основной проект приложения (формы, логика, капча).
 - Documentation/ — техническое задание и пояснительные материалы.
-### Проектирование БД и UML
+# Проектирование БД и UML
 <details>
   <summary>Нажмите, чтобы посмотреть схемы (ER, UML)</summary>
    <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8">
@@ -34,19 +34,7 @@
 ### Основные формы
 <p align="center">
   <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Авторизация и капча">
-  <img src="ссылка_на_главное_меню" width="400" title="Главное меню">
+  <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Главное меню">
+  <img width="906" height="556" alt="image" src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" title="Главное меню" >
 </p>
-
- <p align="center">
-Внешний вид экранной формы авторизации показан на рисунке 3.
-</p>
-<img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" />
- <p align="center">
-Внешний вид формы главного меню показан на рисунке 4.
-</p>
-<img width="970" height="596" alt="image" src="https://github.com/user-attachments/assets/b61821ce-a2f5-422a-aac2-36b2ad3dff1f" />
-<p align="center">
-Внешний вид формы "Создать заявку" показан на рисунке 5.
-</p>
-<img width="906" height="556" alt="image" src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" />
 
