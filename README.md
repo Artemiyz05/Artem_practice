@@ -31,10 +31,10 @@
    <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8">
   <img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5">
 </details>
-### Основные формы
+# Основные формы
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Авторизация и капча">
-  <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Главное меню">
-  <img width="906" height="556" alt="image" src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" title="Главное меню" >
+  <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Главное меню">
+  <img src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" width="400" title="Главное меню" >
 </p>
 
