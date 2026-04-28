@@ -25,3 +25,19 @@
 - UnitTestProject1/ — проект с юнит-тестами.
 - Practice_Нечеухин/ — основной проект приложения (формы, логика, капча).
 - Documentation/ — техническое задание и пояснительные материалы.
+На рисунке 1 представлена диаграмма. 
+ <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8" />
+Рисунок 1 – Диаграмма прецедентов
+На рисунке 2 представлена ER-модель. 
+<img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" />
+Рисунок 2 – ER-модель
+Внешний вид экранной формы авторизации показан на рисунке 3.
+<img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" />
+Рисунок 3 - Окна авторизации
+Внешний вид формы главного меню показан на рисунке 4.
+<img width="970" height="596" alt="image" src="https://github.com/user-attachments/assets/b61821ce-a2f5-422a-aac2-36b2ad3dff1f" />
+Рисунок 4 - Главное меню
+Внешний вид формы "Создать заявку" показан на рисунке 5.
+<img width="906" height="556" alt="image" src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" />
+Рисунок 5 – Создать заявку
+
