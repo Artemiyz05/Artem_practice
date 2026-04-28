@@ -28,7 +28,7 @@
 # Проектирование БД и UML
 <p align="center">
    <img src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8" width="900" title="UML">
-   <img src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" width="400" title="ER-модель">
+   <img src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" width="1200" title="ER-модель">
 </p>
 
 # Основные формы
