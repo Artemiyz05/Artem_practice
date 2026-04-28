@@ -26,16 +26,15 @@
 - Практика_Нечеухин/ — основной проект приложения (формы, логика, капча).
 - Documentation/ — техническое задание и пояснительные материалы.
 # Проектирование БД и UML
-<details>
-  <summary>Нажмите, чтобы посмотреть схемы (ER, UML)</summary>
-   <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8">
-  <img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5">
-</details>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8" width="400" title="Авторизация и капча">
+   <img src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" width="400" title="Авторизация и капча">
+</p>
 
 # Основные формы
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Авторизация и капча">
-  <img src="https://github.com/user-attachments/assets/2e4d6fd6-6cd3-467c-9817-9d954c7b8d5e" width="500" title="Главное меню">
+  <img src="https://github.com/user-attachments/assets/2467ce5a-1e6d-4d8e-ae62-8620ab8ad36b" width="500" title="Список заявок">
   <img src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" width="400" title="Форма создания заявки" >
 </p>
 
