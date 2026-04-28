@@ -35,7 +35,7 @@
 # Основные формы
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Авторизация и капча">
-  <img src="https://github.com/user-attachments/assets/2e4d6fd6-6cd3-467c-9817-9d954c7b8d5e" width="600" title="Главное меню">
+  <img src="https://github.com/user-attachments/assets/2e4d6fd6-6cd3-467c-9817-9d954c7b8d5e" width="500" title="Главное меню">
   <img src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" width="400" title="Главное меню" >
 </p>
 
