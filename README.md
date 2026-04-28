@@ -25,14 +25,18 @@
 - UnitTestProject1/ — проект с юнит-тестами.
 - Practice_Нечеухин/ — основной проект приложения (формы, логика, капча).
 - Documentation/ — техническое задание и пояснительные материалы.
+### Проектирование БД и UML
+<details>
+  <summary>Нажмите, чтобы посмотреть схемы (ER, UML)</summary>
+   <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8">
+  <img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5">
+</details>
+### Основные формы
 <p align="center">
- На рисунке 1 представлена диаграмма. 
+  <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Авторизация и капча">
+  <img src="ссылка_на_главное_меню" width="400" title="Главное меню">
 </p>
- <img width="1737" height="1057" alt="image" src="https://github.com/user-attachments/assets/7830c2cf-73e1-4143-a7c1-48f7220453e8" />
- <p align="center">
-На рисунке 2 представлена ER-модель. 
-</p>
-<img width="1688" height="685" alt="image" src="https://github.com/user-attachments/assets/185462c0-ecfb-47e2-85dc-b27edf2c23e5" />
+
  <p align="center">
 Внешний вид экранной формы авторизации показан на рисунке 3.
 </p>
