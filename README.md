@@ -33,7 +33,7 @@
 </details>
 ### Основные формы
 <p align="center">
-  <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Авторизация и капча">
+  <img src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" width="400" title="Авторизация и капча">
   <img width="942" height="787" alt="image" src="https://github.com/user-attachments/assets/fc991485-62c5-4962-b003-e559ebaa65cb" title="Главное меню">
   <img width="906" height="556" alt="image" src="https://github.com/user-attachments/assets/a75e3660-de7c-4237-8776-e93193ed85e9" title="Главное меню" >
 </p>
